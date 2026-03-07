@@ -1,4 +1,4 @@
-# 🎒 Rucsacul de Urgență Digital (PARU / PACE)
+# 🎒 Rucsacul de Urgență Digital
 
 ## 📑 Cuprins
 * [📝 Despre acest proiect](#despre-acest-proiect)
@@ -41,8 +41,7 @@ Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi. Când 
 
 ### 📡 Comunicații și Alerte
 *Când e confuzie în jur, informația corectă și abilitatea de a da de ai tăi sunt vitale.*
-
-<br><sub>*Legendă: **\*** Necesită net | **\*\*** Hibrid, merge și offline | **\*\*\*** 100% Offline*</sub><br>
+<br><sub>*Legendă: **\*** Necesită net | **\*\*** Hibrid, merge și offline | **\*\*\*** 100% Offline*</sub><br><br>
 
 🟢 **[P] Principal 📱** \*
 #### Rețelele clasice (GSM, 4G/5G, WhatsApp)
@@ -86,8 +85,7 @@ Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi. Când 
 
 ### 🧭 Navigație și Orientare
 *Pentru momentul în care trebuie să pleci la drum și hărțile de pe net nu se mai încarcă.*
-
-<br><sub>*Legendă: **\*** Necesită net | **\*\*** Hibrid, merge și offline | **\*\*\*** 100% Offline*</sub><br>
+<br><sub>*Legendă: **\*** Necesită net | **\*\*** Hibrid, merge și offline | **\*\*\*** 100% Offline*</sub><br><br>
 
 🟢 **[P] Principal 📱** \*
 #### Google Maps / Waze
@@ -123,8 +121,7 @@ Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi. Când 
 
 ### ⚕️ Sănătate Fizică și Supraviețuire
 *Sănătatea e pe primul loc. Iată uneltele care te ajută să salvezi o viață până când reușește să ajungă ambulanța.*
-
-<br><sub>*Legendă: **\*** Necesită net | **\*\*** Hibrid, merge și offline | **\*\*\*** 100% Offline*</sub><br>
+<br><sub>*Legendă: **\*** Necesită net | **\*\*** Hibrid, merge și offline | **\*\*\*** 100% Offline*</sub><br><br>
 
 🟢 **[P] Principal 📱** \*
 #### Apel la 112 / Căutări online
@@ -175,8 +172,7 @@ Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi. Când 
 
 ### 🧘 Sănătate Mentală și Suport Psihologic
 *Panica face adesea mai mult rău decât situația de criză în sine. O minte clară și un moral bun sunt la fel de importante ca apa și mâncarea, atât pentru tine, cât și pentru cei din jur.*
-
-<br><sub>*Legendă: **\*** Necesită net | **\*\*** Hibrid, merge și offline | **\*\*\*** 100% Offline*</sub><br>
+<br><sub>*Legendă: **\*** Necesită net | **\*\*** Hibrid, merge și offline | **\*\*\*** 100% Offline*</sub><br><br>
 
 🟢 **[P] Principal 📱** \*
 #### Streaming Online (YouTube / Spotify)
@@ -234,6 +230,7 @@ Telefonul este „creierul” acestui rucsac digital, dar fără energie devine 
 4. **Modul „Ultra Power Saving”:** Dacă telefonul tău are un mod de economisire extremă a bateriei, acum e momentul să-l folosești.
 5. **Oprește aplicațiile inutile:** Închide forțat Instagram, TikTok sau jocurile. Nu ai nevoie de ele acum și rulează în fundal.
 6. **Bateria externă e prietena ta:** Rucsacul digital *trebuie* susținut de un hardware fizic: ține mereu în rucsacul real o baterie externă (Power Bank) de minim 10.000 - 20.000 mAh încărcată la maxim și un cablu solid!
+7. **Asigură independența energetică la blackout:** O baterie externă te ține câteva zile, dar într-un scenariu de pană totală de curent, ai nevoie de o sursă regenerabilă pentru a menține telefonul în viață. Recomandarea este să adaugi în echipament un panou solar portabil, de dimensiuni reduse, cu regulator de tensiune integrat. La acesta poți conecta cablul USB pentru a încărca direct telefonul sau bateria externă în timp ce ești în mișcare. Un exemplu testat și eficient este [acest sistem fotovoltaic portabil de 10W pentru camping](https://utb-shop.ro/Sistem-solar-fotovoltaic-portabil-cu-panou-10W-cu-regulator-tensiune-pentru-camping-BK69790/PD/16829).
 
 <br>
 
