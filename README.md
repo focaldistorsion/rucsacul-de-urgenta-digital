@@ -54,7 +54,7 @@ Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi. Când 
 #### Aplicația DSU
 * **Descriere:** Aplicația Departamentului pentru Situații de Urgență.
 * **Rol:** E sursa ta sigură, ca să nu cazi pradă zvonurilor. Primești alerte oficiale dacă ai un pic de net, iar ghidurile de supraviețuire le poți citi și offline, dacă le-ai descărcat.
-* **Linkuri:** 🔗 [Site Oficial](https://fiipregatit.ro/) | 📥 [Android](https://play.google.com/store/apps/details?id=com.orson.dsu) | 📥 [iOS](https://apps.apple.com/ro/app/dsu/id1663691101)
+* **Linkuri:** 🔗 [Site Oficial](https://fiipregatit.ro) | 📥 [Android](https://play.google.com/store/apps/details?id=com.orson.dsu) | 📥 [iOS](https://apps.apple.com/ro/app/dsu/id1663691101)
 
 <br>
 
@@ -63,12 +63,12 @@ Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi. Când 
 * **Descriere:** Traducere text, voce și imagini (folosind camera).
 * **Rol:** Depășirea barierei lingvistice în interacțiunea cu autorități străine, refugiați sau pentru citirea unor documente/semne rutiere necunoscute.
 * **Acțiune preventivă vitală:** Descarcă pe telefon, cât ai Wi-Fi, pachetele offline pentru limbile esențiale în contextul geopolitic actual și regional: *Engleză, Franceză, Germană, Ucraineană, Rusă, Poloneză, Maghiară și Chineză.*
-* **Linkuri:** 📥 [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) | 📥 [iOS](https://apps.apple.com/us/app/google-translate/id414706506)
+* **Linkuri:** 🔗 [Site Oficial](https://translate.google.com) | 📥 [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) | 📥 [iOS](https://apps.apple.com/us/app/google-translate/id414706506)
 
 #### MeshCore
 * **Descriere:** O inițiativă locală fantastică (un mesh network).
 * **Rol:** Când pică rețeaua mobilă, te conectezi la routerele speciale MeshCore (funcționale în Iași) și poți schimba mesaje vitale cu restul comunității, complet independent de operatorii telecom.
-* **Linkuri:** 🔗 [Comunitatea Iași / Site](#) | 📥 [Android](#) 
+* **Linkuri:** 🔗 [Site Oficial](http://meshcore.co.uk) | 🔗 [Site Iasi](http://meshcore-iasi.ro) | 📥 [Android](https://play.google.com/store/apps/details?id=com.liamcottle.meshcore.android) | 📥 [iOS](https://apps.apple.com/gb/app/meshcore/id6742354151)
 
 <br>
 
@@ -95,10 +95,10 @@ Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi. Când 
 <br>
 
 🟡 **[A] Alternativ 🔄** \*\*\*
-#### CoMaps / Organic Maps
+#### CoMaps
 * **Descriere:** Hărți open-source, foarte detaliate, create de comunitate.
 * **Rol:** Descarci harta României acasă, la Wi-Fi. Apoi, pe drum, te ghidează impecabil, 100% offline, folosind doar antena GPS a telefonului (ceea ce consumă și mult mai puțină baterie!).
-* **Linkuri:** 🔗 [Site Oficial](#) | 📥 [Android](#) | 📥 [iOS](#)
+* **Linkuri:** 🔗 [Site Oficial](https://www.comaps.app/) | 📥 [Android](https://play.google.com/store/apps/details?id=app.comaps.google) | 📥 [iOS](https://apps.apple.com/us/app/comaps/id6747180809)
 
 <br>
 
@@ -106,7 +106,7 @@ Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi. Când 
 #### Trail Sense
 * **Descriere:** O trusă de unelte digitale pentru orientare în natură.
 * **Rol:** Nu îți arată străzi, ci folosește senzorii telefonului (busola, barometrul pentru a ști dacă vine furtuna). Funcția „breadcrumbs” (firimituri) te ajută să te întorci pe propriile urme dacă te rătăcești prin pădure.
-* **Linkuri:** 🔗 [GitHub](https://github.com/kylecorry31/Trail-Sense) | 📥 [Android](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)
+* **Linkuri:** 🔗 [Site Oficial](https://kylecorry.com/Trail-Sense/) | 📥 [Android](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)
 
 <br>
 
@@ -139,7 +139,7 @@ Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi. Când 
 #### Prim Ajutor - Crucea Roșie (IFRC First Aid)
 * **Descriere:** O aplicație excepțională, vizuală și directă.
 * **Rol:** Dacă cineva se rănește grav, panica te poate face să uiți și ce știai. Aplicația asta te ghidează clar, pas cu pas, complet offline, pentru arsuri, sângerări sau resuscitare.
-* **Linkuri:** 🔗 [Site](https://www.ifrc.org/first-aid-app) | 📥 [Android](https://play.google.com/store/apps/details?id=com.cube.gdpc.fa) | 📥 [iOS](https://apps.apple.com/app/id1312876691)
+* **Linkuri:** 📥 [Android](https://play.google.com/store/apps/details?id=com.cube.gdpc.fa) | 📥 [iOS](https://apps.apple.com/app/id1312876691)
 
 <br>
 
@@ -152,7 +152,7 @@ Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi. Când 
 #### Offline Survival Manual
 * **Descriere:** Un manual clasic de supraviețuire, foarte ușor ca spațiu de stocare.
 * **Rol:** Te învață lucruri de bază dacă evacuarea durează: cum să faci un foc sigur, cum să purifici apa găsită sau să construiești un adăpost improvizat.
-* **Linkuri:** 🔗 [GitHub](https://github.com/ligi/SurvivalManual) | 📥 [Android](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
+* **Linkuri:** 🔗 [GitHub](https://survivalmanual.github.io/) | 📥 [Android](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
 
 #### Knots 3D (Noduri 3D)
 * **Descriere:** O enciclopedie vizuală interactivă care te învață cum să legi zeci de noduri utile.
@@ -186,7 +186,7 @@ Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi. Când 
 #### Insight Timer
 * **Descriere:** O aplicație cu exerciții de respirație, sunete ambientale și meditație, având o secțiune excelentă și pentru copii.
 * **Rol:** Dacă le-ai descărcat din timp, aceste exerciții ghidate vă ajută pe toți (adulți și copii deopotrivă) să scădeți ritmul cardiac, să gestionați anxietatea și să vă liniștiți.
-* **Linkuri:** 🔗 [Site](https://insighttimer.com/) | 📥 [Android](https://play.google.com/store/apps/details?id=com.spotlightsix.zentimerlite2) | 📥 [iOS](https://apps.apple.com/us/app/insight-timer-meditation-app/id337472899)
+* **Linkuri:** 🔗 [Site Oficial](https://insighttimer.com/) | 📥 [Android](https://play.google.com/store/apps/details?id=com.spotlightsix.zentimerlite2) | 📥 [iOS](https://apps.apple.com/us/app/insight-timer-meditation-app/id337472899)
 
 <br>
 
@@ -244,4 +244,4 @@ Telefonul este „creierul” acestui rucsac digital, dar fără energie devine 
 > 🤖 **Notă privind utilizarea AI:** Forma și structurarea acestui text au fost realizate cu asistența inteligenței artificiale generative (LLM). Totuși, toate aplicațiile recomandate, conceptele de supraviețuire, sursele și linkurile au fost revizuite, testate și confirmate manual de către autorul uman.
 
 ---
-*Versiunea curentă a ghidului: **v1.1.0** (Actualizat la: 7 Martie 2026). Pentru istoricul complet al modificărilor, consultă [Jurnalul de Modificări (CHANGELOG.md)](CHANGELOG.md).*
+*Versiunea curentă a ghidului: **v1.3.0** (Actualizat la: 7 Martie 2026). Pentru istoricul complet al modificărilor, consultă [Jurnalul de Modificări (CHANGELOG.md)](CHANGELOG.md).*
