@@ -4,6 +4,16 @@ Toate modificările notabile ale proiectului **Digital Bug Out Bag (PARU / PACE)
 
 Formatul se bazează pe [Keep a Changelog](https://keepachangelog.com/ro/1.0.0/), iar acest proiect aderă la [Semantic Versioning](https://semver.org/).
 
+## [1.3.0] - 2026-03-07
+
+### Modificat / Corectat
+- **Validare Linkuri:** S-a realizat reverificarea și validarea manuală riguroasă a tuturor linkurilor din documentație, asigurând accesul corect și securizat către aplicații și resurse.
+
+## [1.2.0] - 2026-03-07
+
+### Adăugat / Modificat
+- **Optimizări de cod:** S-au preluat și integrat modificările de aliniere vizuală folosind etichete `<br>` și `<sub>` pentru a structura mai bine dicționarul de conectivitate de sub fiecare categorie, îmbunătățind considerabil lizibilitatea.
+
 ## [1.1.0] - 2026-03-07
 
 ### Adăugat / Modificat
