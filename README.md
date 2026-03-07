@@ -18,15 +18,17 @@
 
 > Salut! Acesta este un proiect de reziliență personală. Am adunat aici o colecție de aplicații esențiale, ghiduri offline și instrumente gratuite, structurată pe metoda PARU (Principal, Alternativ, Rezervă, Urgență). În engleză se numește metoda PACE.
 >
-> Acest site dorește să fie complementul digital pentru rucsacul tău fizic de urgență. Te ajută să navighezi, să comunici, să acorzi prim-ajutor și să îți menții calmul atunci când infrastructura clasică (internet, curent, semnal) ne lasă la greu. Scopul este să instalezi și să configurezi aceste unelte *acum*, la calm, pe telefonul tău.
+> Acest site dorește să fie complementul digital pentru rucsacul tău fizic de urgență. Te ajută să navighezi, să comunici, să acorzi prim-ajutor și să îți menții calmul atunci când infrastructura clasică (internet, curent, semnal) ne lasă la greu. Scopul este să instalezi și să configurezi aceste unelte *acum*, calm, pe telefonul tău.
 >
-> 💡 **Sfat vital:** Nu face acest rucsac digital doar pentru tine! Instalează aceste aplicații și pe telefoanele membrilor familiei (partener, copii mai mari, părinți). Pe de o parte, îi împuternicești să se descurce singuri dacă sunteți separați fizic. Pe de altă parte, telefoanele lor devin *backup-ul tău hardware* în cazul în care telefonul tău se strică, îl pierzi sau rămâne fără baterie.
+> 💡 **Sfat vital:** Nu CREA acest rucsac digital doar pentru tine! Instalează aceste aplicații și pe telefoanele membrilor familiei (partener, copii mai mari, părinți). Pe de o parte, îi împuternicești să se descurce singuri dacă sunteți separați fizic. Pe de altă parte, telefoanele lor devin *backup-ul tău hardware* în cazul în care telefonul tău se strică, îl pierzi sau rămâne fără baterie.
 
 <br>
 
 ### 🚦 Legenda Metodologiei PARU
 
-Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi. Când un strat cedează, treci calm la următorul:
+Gândește-te la acest plan ca la o plasă de siguranță în 4 straturi.
+<br>
+Când un strat cedează, treci calm la următorul:
 
 * 🟢 **[P] Principal (Primary) 📱:** Normalitatea. Aplicațiile pe care le folosim zilnic, când avem internet, curent și semnal full.
 * 🟡 **[A] Alternativ (Alternate) 🔄:** Planul B. Prima opțiune când sistemul principal dă rateuri. Necesită internet foarte slab sau doar GPS.
@@ -244,4 +246,4 @@ Telefonul este „creierul” acestui rucsac digital, dar fără energie devine 
 > 🤖 **Notă privind utilizarea AI:** Forma și structurarea acestui text au fost realizate cu asistența inteligenței artificiale generative (LLM). Totuși, toate aplicațiile recomandate, conceptele de supraviețuire, sursele și linkurile au fost revizuite, testate și confirmate manual de către autorul uman.
 
 ---
-*Versiunea curentă a ghidului: **v1.3.0** (Actualizat la: 7 Martie 2026). Pentru istoricul complet al modificărilor, consultă [Jurnalul de Modificări (CHANGELOG.md)](CHANGELOG.md).*
+*Versiunea curentă a ghidului: **v1.3.0** (Actualizat la: 7 Martie 2026).
