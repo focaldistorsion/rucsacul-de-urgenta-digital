@@ -244,4 +244,4 @@ Telefonul este „creierul” acestui rucsac digital, dar fără energie devine 
 > 🤖 **Notă privind utilizarea AI:** Forma și structurarea acestui text au fost realizate cu asistența inteligenței artificiale generative (LLM). Totuși, toate aplicațiile recomandate, conceptele de supraviețuire, sursele și linkurile au fost revizuite, testate și confirmate manual de către autorul uman.
 
 ---
-*Versiunea curentă a ghidului: **v1.0.0** (Actualizat la: 7 Martie 2026). Pentru istoricul complet al modificărilor, consultă [Jurnalul de Modificări (CHANGELOG.md)](CHANGELOG.md).*
+*Versiunea curentă a ghidului: **v1.1.0** (Actualizat la: 7 Martie 2026). Pentru istoricul complet al modificărilor, consultă [Jurnalul de Modificări (CHANGELOG.md)](CHANGELOG.md).*
