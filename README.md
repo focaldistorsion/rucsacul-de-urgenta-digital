@@ -78,7 +78,7 @@ Când un strat cedează, treci calm la următorul:
 #### Briar / Bitchat
 * **Descriere:** Mesagerie „de bunker”. Nu are nevoie de servere centrale.
 * **Rol:** Dacă tu și familia ta sunteți izolați într-o zonă fără niciun fel de semnal, aplicațiile astea folosesc Bluetooth-ul și Wi-Fi-ul intern al telefoanelor pentru a trimite mesaje direct între voi, de la unul la altul.
-* **Linkuri Briar:** 🔗 [Site](https://briarproject.org/) | 📥 [Android (Play)](https://play.google.com/store/apps/details?id=org.briarproject.briar.android) | 💻 [Linux](https://flathub.org/apps/org.briarproject.Briar)
+* **Linkuri Briar:** 🔗 [Site Oficial](https://briarproject.org/) | 📥 [Android](https://play.google.com/store/apps/details?id=org.briarproject.briar.android) | 💻 [Linux](https://flathub.org/apps/org.briarproject.Briar)
 * **Linkuri Bitchat:** 🔗 [Site Oficial](https://bitchat.free/) | 📥 [Android](https://play.google.com/store/apps/details?id=com.bitchat.droid) | 📥 [iOS](https://apps.apple.com/us/app/bitchat-mesh/id6748219622)
 
 <br>
