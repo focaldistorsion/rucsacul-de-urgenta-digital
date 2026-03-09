@@ -52,10 +52,10 @@ Când un strat cedează, treci calm la următorul:
 
 <br>
 
-🟡 **[A] Alternativ 🔄** \*\*
+🟡 **[A] Alternativ 🔄** \*
 #### Aplicația DSU
 * **Descriere:** Aplicația Departamentului pentru Situații de Urgență.
-* **Rol:** E sursa ta sigură, ca să nu cazi pradă zvonurilor. Primești alerte oficiale dacă ai un pic de net, iar ghidurile de supraviețuire le poți citi și offline, dacă le-ai descărcat.
+* **Rol:** E sursa ta sigură, ca să nu cazi pradă zvonurilor. Primești alerte oficiale dacă ai un pic de net, citi ghidurile de supraviețuire în avans.
 * **Linkuri:** 🔗 [Site Oficial](https://fiipregatit.ro) | 📥 [Android](https://play.google.com/store/apps/details?id=com.orson.dsu) | 📥 [iOS](https://apps.apple.com/ro/app/dsu/id1663691101)
 
 <br>
@@ -68,8 +68,8 @@ Când un strat cedează, treci calm la următorul:
 * **Linkuri:** 🔗 [Site Oficial](https://translate.google.com) | 📥 [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) | 📥 [iOS](https://apps.apple.com/us/app/google-translate/id414706506)
 
 #### MeshCore
-* **Descriere:** O inițiativă locală fantastică (un mesh network).
-* **Rol:** Când pică rețeaua mobilă, te conectezi la routerele speciale MeshCore (funcționale în Iași) și poți schimba mesaje vitale cu restul comunității, complet independent de operatorii telecom.
+* **Descriere:** MeshCore este un sistem care îți permite să comunici prin mesaje text folosind mici dispozitive radio, fiind ideal pentru momentele în care nu ai deloc internet sau semnal la telefon.
+* **Rol:** Când pică rețeaua mobilă, te conectezi cu radioul la routerele speciale MeshCore (funcționale în Iași) și poți schimba mesaje vitale cu restul comunității, complet independent de operatorii telecom.
 * **Linkuri:** 🔗 [Site Oficial](http://meshcore.co.uk) | 🔗 [Site Iasi](http://meshcore-iasi.ro) | 📥 [Android](https://play.google.com/store/apps/details?id=com.liamcottle.meshcore.android) | 📥 [iOS](https://apps.apple.com/gb/app/meshcore/id6742354151)
 
 <br>
@@ -79,7 +79,7 @@ Când un strat cedează, treci calm la următorul:
 * **Descriere:** Mesagerie „de bunker”. Nu are nevoie de servere centrale.
 * **Rol:** Dacă tu și familia ta sunteți izolați într-o zonă fără niciun fel de semnal, aplicațiile astea folosesc Bluetooth-ul și Wi-Fi-ul intern al telefoanelor pentru a trimite mesaje direct între voi, de la unul la altul.
 * **Linkuri Briar:** 🔗 [Site](https://briarproject.org/) | 📥 [Android (Play)](https://play.google.com/store/apps/details?id=org.briarproject.briar.android) | 💻 [Linux](https://flathub.org/apps/org.briarproject.Briar)
-* **Linkuri Bitchat:** 🔗 [GitHub](#) | 📥 [Android](#)
+* **Linkuri Bitchat:** 🔗 [Site Oficial](https://bitchat.free/) | 📥 [Android](https://play.google.com/store/apps/details?id=com.bitchat.droid) | 📥 [iOS](https://apps.apple.com/us/app/bitchat-mesh/id6748219622)
 
 <br>
 
@@ -99,7 +99,7 @@ Când un strat cedează, treci calm la următorul:
 🟡 **[A] Alternativ 🔄** \*\*\*
 #### CoMaps
 * **Descriere:** Hărți open-source, foarte detaliate, create de comunitate.
-* **Rol:** Descarci harta României acasă, la Wi-Fi. Apoi, pe drum, te ghidează impecabil, 100% offline, folosind doar antena GPS a telefonului (ceea ce consumă și mult mai puțină baterie!).
+* **Rol:** Descarci harta completă a României și/sau altor țări care te interesează. În lipsă de WiFi si date mobile, te ghidează impecabil, 100% offline, folosind doar antena GPS a telefonului).
 * **Linkuri:** 🔗 [Site Oficial](https://www.comaps.app/) | 📥 [Android](https://play.google.com/store/apps/details?id=app.comaps.google) | 📥 [iOS](https://apps.apple.com/us/app/comaps/id6747180809)
 
 <br>
@@ -107,7 +107,7 @@ Când un strat cedează, treci calm la următorul:
 🟠 **[R] Rezervă 🛡️** \*\*\*
 #### Trail Sense
 * **Descriere:** O trusă de unelte digitale pentru orientare în natură.
-* **Rol:** Nu îți arată străzi, ci folosește senzorii telefonului (busola, barometrul pentru a ști dacă vine furtuna). Funcția „breadcrumbs” (firimituri) te ajută să te întorci pe propriile urme dacă te rătăcești prin pădure.
+* **Rol:** Nu îți arată străzi, folosește senzorii telefonului (busola, barometrul pentru a ști dacă vine furtuna). Funcția „breadcrumbs” (firimituri) te ajută să te întorci pe propriile urme dacă te rătăcești prin pădure.
 * **Linkuri:** 🔗 [Site Oficial](https://kylecorry.com/Trail-Sense/) | 📥 [Android](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)
 
 <br>
@@ -246,4 +246,4 @@ Telefonul este „creierul” acestui rucsac digital, dar fără energie devine 
 > 🤖 **Notă privind utilizarea AI:** Forma și structurarea acestui text au fost realizate cu asistența inteligenței artificiale generative (LLM). Totuși, toate aplicațiile recomandate, conceptele de supraviețuire, sursele și linkurile au fost revizuite, testate și confirmate manual de către autorul uman.
 
 ---
-*Versiunea curentă a ghidului: **v1.3.0** (Actualizat la: 7 Martie 2026).
+*Versiunea curentă a ghidului: **v1.4.0** (Actualizat la: 9 Martie 2026).
